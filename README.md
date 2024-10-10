@@ -10,6 +10,7 @@
 
 - ⚡ Fun fact **I am extrovert**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishant_4500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_4500" height="30" width="40" /></a>
@@ -23,6 +24,9 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishant4500&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishant4500&theme=github_dark" />
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant4500" alt="nishant4500" /></a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
@@ -58,9 +62,9 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant4500&show_icons=true&locale=en&layout=compact" alt="nishant4500" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant4500&show_icons=true&locale=en&layout=compact" alt="nishant4500&theme=github_dark" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant4500&show_icons=true&locale=en" alt="nishant4500" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant4500&show_icons=true&locale=en" alt="nishant4500&theme=github_dark" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant4500&" alt="nishant4500" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant4500&" alt="nishant4500&theme=github_dark" /></p>
