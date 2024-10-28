@@ -59,6 +59,10 @@
 		<td><img height=40 src = "https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"></td>
 	</tr>
 </table>
+<br><br>
+
+[![An image of @nishant4500's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishant4500)](https://holopin.io/@nishant4500)
+<br><br>
 <br>
 
 
