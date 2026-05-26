@@ -15,7 +15,7 @@
   <a href="https://twitter.com/nishant_4500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_4500" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/nishant1205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant1205" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/idwivedi1204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="idwivedi1204" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/idwivedemhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="idwivedemhw" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/idwivedmhw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="idwivedemhw" height="30" width="40" /></a>
 </p>
 
 <div align="center">
